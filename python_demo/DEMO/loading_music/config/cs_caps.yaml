@@ -1,0 +1,7 @@
+platformName: Android
+deviceName: MuMu
+appPackage: com.netease.cloudmusic
+appActivity: .activity.LoadingActivity
+noReset: False
+ip: 127.0.0.1
+port: 4723
